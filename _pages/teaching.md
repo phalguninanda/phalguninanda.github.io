@@ -8,8 +8,16 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+nav: true
+---
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Purdue University, West Lafayette.
 
-{% include courses.liquid %}
+## Teaching Assistant, Edwardson School of Industrial Engineering.
+
+- IE 230 - Probability and Statistics in Engineering I, Spring 2026
+- IE 533 - Industrial Applications of Statistics, Spring 2026
