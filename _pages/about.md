@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), [Purdue University, West Lafayette](https://www.purdue.edu/). 
+I am a PhD student in the [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), [Purdue University, West Lafayette](https://www.purdue.edu/), where I am advised by [Prof. Zaiwei Chen](https://sites.google.com/view/zaiweichen/home). 
