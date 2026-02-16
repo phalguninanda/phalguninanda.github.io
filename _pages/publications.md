@@ -29,4 +29,18 @@ nav_order: 2
   **Phalguni Nanda** and Zaiwei Chen\
   _Revised and resubmitted to SIGMETRICS 2026 (Winter Deadline)_ (2026)
 
+- From Set Convergence to Pointwise Convergence: Finite-Time Guarantees for Average-Reward Q-Learning with Adaptive Stepsizes\
+  Zaiwei Chen and **Phalguni Nanda**\
+  _Under review at Mathematics of Operations Research_ (2026)
+
+- A decompositional approach for two-dimensional, two-phase, nonlinear inverse Stefan problems using the method of fundamental solutions\
+  Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky\
+  _To appear in Studies in Applied Mathematics_ (2026)
+
+### Published Articles
+
+- [Inverse two-phase nonlinear Stefan and Cauchy-Stefan problems: A phase-wise approach](https://doi.org/10.1016/j.camwa.2022.08.009)\
+  **Phalguni Nanda**, Gujji Murali Mohan Reddy, and Michael Vynnycky\
+  _Computers and Mathematics with Applications, 123:216–226, 2022_
+
 
