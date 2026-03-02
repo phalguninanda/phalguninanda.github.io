@@ -1,18 +1,11 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 6
 calendar: true
----
-
----
-layout: page
-title: Teaching
-permalink: /teaching/
-nav: true
 ---
 
 ### Purdue University, West Lafayette.
