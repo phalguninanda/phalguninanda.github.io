@@ -19,6 +19,8 @@ nav_order: 2
 
 </div> -->
 
+My publications can also be found on [Google Scholar.](https://scholar.google.com/citations?user=iT0q6i8AAAAJ&hl=en)
+
 ### Submitted/Working Papers
 
 - Policy Gradient without Gradients: A Unified Analysis via Doubly Smoothed Policy Iteration.\
