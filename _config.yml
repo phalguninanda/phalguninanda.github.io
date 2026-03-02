@@ -53,7 +53,7 @@ external_services:
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: false
+navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
@@ -62,15 +62,6 @@ bib_search: true
 
 # Dimensions
 max_width: 930px
-
-# -----------------------------------------------------------------------------
-# Navigation Bar
-# -----------------------------------------------------------------------------
-
-navbar_pages:
-  - about.md
-  - publications.md
-  - teaching.md
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
