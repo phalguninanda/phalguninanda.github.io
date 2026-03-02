@@ -21,7 +21,7 @@ nav_order: 2
 
 ### Submitted/Working Papers
 
-- The Typicality Principle and its Implications for Statistics and Data Science\
+- Policy Gradient without Gradients: A Unified Analysis via Doubly Smoothed Policy Iteration.\
   **Phalguni Nanda** and Zaiwei Chen\
   _In Preparation_ (2026)
 
