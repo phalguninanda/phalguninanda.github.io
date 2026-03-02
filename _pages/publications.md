@@ -43,4 +43,12 @@ nav_order: 2
   **Phalguni Nanda**, Gujji Murali Mohan Reddy, and Michael Vynnycky\
   _Computers and Mathematics with Applications, 123:216–226, 2022_
 
+- [Efficient numerical solution of one-phase linear inverse Stefan and Cauchy-Stefan problems in two-dimensions: _a posteriori_ error control](https://doi.org/10.1111/sapm.12484)\
+  **Phalguni Nanda** and Gujji Murali Mohan Reddy\
+  _Studies in Applied Mathematics}, 148(4) : 1563 – 1585, 2022_
+
+ - [Efficient numerical solution of boundary identification problems: MFS with adaptive stochastic optimization](https://doi.org/10.1016/j.amc.2021.126402)\
+   Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky, and Jose Alberto Cuminato\
+   _Applied Mathematics and Computation}, 409:126402,_
+
 
