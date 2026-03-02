@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), [Purdue University, West Lafayette](https://www.purdue.edu/), where I am advised by [Prof. Zaiwei Chen](https://sites.google.com/view/zaiweichen/home). 
+Hello! Welcome to my webpage. I am a PhD student in the [Edwardson School of Industrial Engineering](https://engineering.purdue.edu/IE), [Purdue University, West Lafayette](https://www.purdue.edu/), where I am advised by [Prof. Zaiwei Chen](https://sites.google.com/view/zaiweichen/home). I also hold a MS in Mathematical Statistics from Purdue University. 
 
-My research interests lie in foundational results for practically impactful algorithms for sequential decision making. My CV can be found [here](https://drive.google.com/file/d/1tviklgv7g58r1xPz3o-BShw8HVLgLo4d/view?usp=sharing). 
+My research focuses on fundamental results for reinforcement learning algorithms, emphasizing on both non-asymptotic guarantees and algorithm design. My CV can be found [here](https://drive.google.com/file/d/1tviklgv7g58r1xPz3o-BShw8HVLgLo4d/view?usp=sharing). 
 
-During my PhD, I have obtained a MS in Mathematical Statistics from Purdue University. Prior to Purdue, I worked as a Project Assistant in the [Department of Mathematics](https://www.bits-pilani.ac.in/hyderabad/mathematics/) of [Birla Institute of Technology and Science Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/), under the supervision of [Prof. Gujji Murali Mohan Reddy](https://www.bits-pilani.ac.in/hyderabad/gujji-murali-mohan-reddy). I received my Bachelors and Masters degrees in Mathematics (through the Five-Year Integrated M.Sc. programme) from the [National Institute of Technolofy Rourkela, India](https://www.nitrkl.ac.in/).  
+Prior to Purdue, I was a Project Assistant in the [Department of Mathematics](https://www.bits-pilani.ac.in/hyderabad/mathematics/) of [Birla Institute of Technology and Science Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/), under the supervision of [Prof. Gujji Murali Mohan Reddy](https://www.bits-pilani.ac.in/hyderabad/gujji-murali-mohan-reddy). Earlier, I received my Bachelors and Masters degrees in Mathematics (through the Five-Year Integrated M.Sc. programme) from the [National Institute of Technolofy Rourkela, India](https://www.nitrkl.ac.in/).  
+
+
