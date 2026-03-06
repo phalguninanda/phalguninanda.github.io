@@ -23,11 +23,11 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
 
 ### Submitted/Working Papers
 
-- Policy Gradient without Gradients: A Unified Analysis via Doubly Smoothed Policy Iteration.\
+- Policy gradient without gradients: a unified analysis via doubly smoothed policy iteration.\
   **Phalguni Nanda** and Zaiwei Chen\
   _In Preparation_ (2026)
 
-- [A minimal-assumption analysis of Q-learning with time-varying policies](https://arxiv.org/abs/2510.16132)\
+- A minimal-assumption analysis of Q-learning with time-varying policies\\[[arXiv](https://arxiv.org/abs/2510.16132)\\]\
   **Phalguni Nanda** and Zaiwei Chen\
   _Revised and resubmitted to SIGMETRICS 2026 (Winter Deadline)_ (2026)
 
@@ -35,11 +35,11 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
   Zaiwei Chen and **Phalguni Nanda**\
   _Under review at Mathematics of Operations Research_ (2026)
 
-- A decompositional approach for two-dimensional, two-phase, nonlinear inverse Stefan problems using the method of fundamental solutions\
-  Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky\
-  _To appear in Studies in Applied Mathematics_ (2026)
-
 ### Published Articles
+
+- A decompositional approach for two-dimensional, two-phase, nonlinear inverse Stefan problems using the method of fundamental solutions \\[[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.70184)\\]\
+  Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky\
+  _Studies in Applied Mathematics, 2026; 156:e70184_ (2026)
 
 - [Inverse two-phase nonlinear Stefan and Cauchy-Stefan problems: A phase-wise approach](https://doi.org/10.1016/j.camwa.2022.08.009)\
   **Phalguni Nanda**, Gujji Murali Mohan Reddy, and Michael Vynnycky\
