@@ -34,7 +34,7 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
 ### Published Articles
 - A minimal-assumption analysis of Q-learning with time-varying policies\
   **Phalguni Nanda** and Zaiwei Chen\
-  _Accepted to SIGMETRICS 2026_ $\color{blue}{\text{(Best Paper Award Finalist)}}$ _to appear in Proceedings of the ACM on Measurement and Analysis of Computing Systems_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]
+  _Accepted to SIGMETRICS 2026_ <span style="color: rgb(9, 105, 218);">(Best Paper Award Finalist)</span> _to appear in Proceedings of the ACM on Measurement and Analysis of Computing Systems_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]
   
 - A decompositional approach for two-dimensional, two-phase, nonlinear inverse Stefan problems using the method of fundamental solutions \
   Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky\
