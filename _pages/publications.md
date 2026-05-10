@@ -23,20 +23,19 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
 
 ### Submitted/Working Papers
 
-- Policy gradient without gradients: a unified analysis via doubly smoothed policy iteration.\
+- Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework.\
   **Phalguni Nanda** and Zaiwei Chen\
-  _In Preparation, 2026_
-
-- A minimal-assumption analysis of Q-learning with time-varying policies\
-  **Phalguni Nanda** and Zaiwei Chen\
-  _Revised and resubmitted to SIGMETRICS 2026 (Winter Deadline)_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]
-
+  _Submitted to NeurIPS 2026_
+  
 - From set convergence to pointwise convergence: finite-time guarantees for average-reward Q-learning with adaptive stepsizes\
   Zaiwei Chen and **Phalguni Nanda**\
   _Under review at Mathematics of Operations Research, 2026_
 
 ### Published Articles
-
+- A minimal-assumption analysis of Q-learning with time-varying policies\
+  **Phalguni Nanda** and Zaiwei Chen\
+  _Accepted to SIGMETRICS 2026 ${\color{blue} \text{(Best Paper Award Finalist)}}$, to appear in Proceedings of the ACM on Measurement and Analysis of Computing Systems_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]
+  
 - A decompositional approach for two-dimensional, two-phase, nonlinear inverse Stefan problems using the method of fundamental solutions \
   Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky\
   _Studies in Applied Mathematics, 2026; 156:e70184, 2026_ \[[Journal](https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.70184)\]
