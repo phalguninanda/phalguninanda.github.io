@@ -476,7 +476,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in//in/phalguni-nanda-25036ab6/", "_blank");
+          window.open("https://www.linkedin.com/in/phalguni-nanda-25036ab6", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=iT0q6i8AAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
