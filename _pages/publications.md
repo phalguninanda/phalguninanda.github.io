@@ -21,9 +21,11 @@ nav_order: 2
 
 My publications can also be found on [Google Scholar.](https://scholar.google.com/citations?user=iT0q6i8AAAAJ&hl=en)
 
-## Publications at Purdue
+## Current Research at Purdue University
 
-### Submitted/Working Papers
+### Reinforcement Learning and Sequential Decision Making
+
+#### Submitted/Working Papers
 
 - Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework.\
   **Phalguni Nanda** and Zaiwei Chen\
@@ -33,12 +35,14 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
   Zaiwei Chen and **Phalguni Nanda**\
   _Under review at Mathematics of Operations Research, 2026_
 
-### Published Articles
+#### Published Articles
 - A minimal-assumption analysis of Q-learning with time-varying policies\
   **Phalguni Nanda** and Zaiwei Chen\
   _Accepted to SIGMETRICS 2026_ <span style="color: rgb(9, 105, 218);">(Best Paper Award Finalist)</span> _to appear in Proceedings of the ACM on Measurement and Analysis of Computing Systems_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]
 
-## Publications Prior to Purdue
+## Research Prior to Purdue
+
+### Inverse Problems and Scientific Computing
 
 - A decompositional approach for two-dimensional, two-phase, nonlinear inverse Stefan problems using the method of fundamental solutions \
   Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky\
@@ -56,13 +60,15 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
    Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky, and Jose Alberto Cuminato\
    _Applied Mathematics and Computation, 409:126402,_ \[[Journal](https://doi.org/10.1016/j.amc.2021.126402)\]
 
- -  Optimal replacement policy under cumulative damage model and strength degradation with applications\
-   **Phalguni Nanda**, Prajamitra Bhuyan, and Anup Dewanji\
-    _Annals of Operations Research, 315, 1345–1371, 2022_ \[[Journal](https://doi.org/10.1007/s10479-021-04080-6)\]
-
  - An adaptive boundary algorithm for the reconstruction of boundary and initial data using the method of fundamental solutions for the inverse Cauchy–Stefan problem\
    Gujji Murali Mohan Reddy, **Phalguni Nanda**, Michael Vynnycky, and Jose Alberto Cuminato\
    _Computational and Applied Mathematics, 40(3):1–26, 2021_ \[[Journal](https://doi.org/10.1007/s40314-021-01454-1)\]
+
+### Stochastic Comparisons and Reliability
+
+ -  Optimal replacement policy under cumulative damage model and strength degradation with applications\
+   **Phalguni Nanda**, Prajamitra Bhuyan, and Anup Dewanji\
+    _Annals of Operations Research, 315, 1345–1371, 2022_ \[[Journal](https://doi.org/10.1007/s10479-021-04080-6)\]
 
 - Stochastic comparisons of parallel systems with generalized Kumaraswamy-G components\
   Suchandan Kayal and **Phalguni Nanda**\
@@ -79,5 +85,4 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
 - Some stochastic comparison results of series and parallel systems with heterogeneous Pareto type components\
   Lakshmi Kanta Patra, **Phalguni Nanda** and Suchandan Kayal\
   _Applications of Mathematics, 63(1):55-77, 2018_ \[[Journal](https://doi.org/10.21136/AM.2018.0105-17)\]
-
-
+  
