@@ -8,12 +8,12 @@ profile:
   align: right
   image: profile-picture-1.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
-    >
-    <div class="profile-info" style="text-align: center;">
-      <p class="profile-name" style="font-family: 'Arial'; display: block;">Phalguni Nanda</p>
-      <p class="profile-department">nanda14@purdue.edu</p>
-    </div>
+  # more_info: 
+  #  >
+  #  <div class="profile-info" style="text-align: center;">
+  #    <p class="profile-name" style="font-family: 'Arial'; display: block;">Phalguni Nanda</p>
+  #    <p class="profile-department">nanda14@purdue.edu</p>
+  #  </div>
 
 selected_papers: # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
