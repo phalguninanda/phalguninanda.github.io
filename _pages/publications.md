@@ -19,7 +19,7 @@ nav_order: 2
 
 </div> -->
 
-My publications can also be found on [Google Scholar.](https://scholar.google.com/citations?user=iT0q6i8AAAAJ&hl=en)
+My publications are also available on [Google Scholar.](https://scholar.google.com/citations?user=iT0q6i8AAAAJ&hl=en)
 
 ## Current Research at Purdue University
 
