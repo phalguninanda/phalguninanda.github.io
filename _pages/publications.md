@@ -21,7 +21,9 @@ nav_order: 2
 
 My publications can also be found on [Google Scholar.](https://scholar.google.com/citations?user=iT0q6i8AAAAJ&hl=en)
 
-### Submitted/Working Papers
+### Publications at Purdue
+
+## Submitted/Working Papers
 
 - Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework.\
   **Phalguni Nanda** and Zaiwei Chen\
@@ -31,7 +33,7 @@ My publications can also be found on [Google Scholar.](https://scholar.google.co
   Zaiwei Chen and **Phalguni Nanda**\
   _Under review at Mathematics of Operations Research, 2026_
 
-### Published Articles
+## Published Articles
 - A minimal-assumption analysis of Q-learning with time-varying policies\
   **Phalguni Nanda** and Zaiwei Chen\
   _Accepted to SIGMETRICS 2026_ <span style="color: rgb(9, 105, 218);">(Best Paper Award Finalist)</span> _to appear in Proceedings of the ACM on Measurement and Analysis of Computing Systems_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]
