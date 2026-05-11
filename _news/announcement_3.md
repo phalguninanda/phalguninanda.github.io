@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: June 15, 2026
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will present a poster on our recent work Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework at the [Stochastic Networks Conference 2026](https://www.chicagobooth.edu/events/stochastic-networks-conference).
