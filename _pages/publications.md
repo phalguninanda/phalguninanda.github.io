@@ -29,7 +29,7 @@ My publications are also available on [Google Scholar.](https://scholar.google.c
 
 - Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework.\
   **Phalguni Nanda** and Zaiwei Chen\
-  _Submitted_
+  _Submitted_ \[[arXiv](https://arxiv.org/abs/2605.10671)\]
   
 - From set convergence to pointwise convergence: finite-time guarantees for average-reward Q-learning with adaptive stepsizes\
   Zaiwei Chen and **Phalguni Nanda**\
