@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-18'
 papers:
   iT0q6i8AAAAJ:9yKSN-GCB0IC:
     citations: 18
@@ -18,7 +18,7 @@ papers:
     title: "An adaptive boundary algorithm for the reconstruction of boundary and initial data using the method of fundamental solutions for the inverse Cauchy\u2013Stefan problem"
     year: '2021'
   iT0q6i8AAAAJ:W7OEmFMy1HYC:
-    citations: 3
+    citations: 4
     title: A Minimal-Assumption Analysis of Q-Learning with Time-Varying Policies
     year: '2025'
   iT0q6i8AAAAJ:YsMSGLbcyi4C:
@@ -29,6 +29,10 @@ papers:
     citations: 15
     title: Some stochastic comparison results for series and parallel systems with heterogeneous Pareto type components
     year: '2018'
+  iT0q6i8AAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'Natural Policy Gradient as Doubly Smoothed Policy Iteration: A Bellman-Operator Framework'
+    year: '2026'
   iT0q6i8AAAAJ:qjMakFHDy7sC:
     citations: 3
     title: 'Efficient numerical solution of boundary identification problems: MFS with adaptive stochastic optimization'
