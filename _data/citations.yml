@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-22'
 papers:
   iT0q6i8AAAAJ:9yKSN-GCB0IC:
     citations: 19
@@ -18,9 +18,9 @@ papers:
     title: "An adaptive boundary algorithm for the reconstruction of boundary and initial data using the method of fundamental solutions for the inverse Cauchy\u2013Stefan problem"
     year: '2021'
   iT0q6i8AAAAJ:W7OEmFMy1HYC:
-    citations: 4
-    title: A Minimal-Assumption Analysis of Q-Learning with Time-Varying Policies
-    year: '2025'
+    citations: 6
+    title: A minimal-assumption analysis of q-learning with time-varying policies
+    year: '2026'
   iT0q6i8AAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: "A Decompositional Approach for Two\u2010Dimensional, Two\u2010Phase, Nonlinear Inverse Stefan Problems Using the Method of Fundamental Solutions"
