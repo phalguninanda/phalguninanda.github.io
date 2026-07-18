@@ -38,7 +38,7 @@ My publications are also available on [Google Scholar.](https://scholar.google.c
 #### Published Articles
 - A minimal-assumption analysis of Q-learning with time-varying policies\
   **Phalguni Nanda** and Zaiwei Chen\
-  _to appear in Proceedings of the ACM on Measurement and Analysis of Computing Systems, 10(2) : 1--43, 2026_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]\[[Journal](https://doi.org/10.1145/3805624)\] \
+  _Proceedings of the ACM on Measurement and Analysis of Computing Systems, 10(2) : 1--43, 2026_ \[[arXiv](https://arxiv.org/abs/2510.16132)\]\[[Journal](https://doi.org/10.1145/3805624)\] \
   _Accepted to SIGMETRICS 2026_ <span style="color: rgb(9, 105, 218);">(Best Paper Runner-Up)</span>
 
 ## Research Prior to Purdue
