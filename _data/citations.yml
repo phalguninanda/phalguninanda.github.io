@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-24'
 papers:
   iT0q6i8AAAAJ:9yKSN-GCB0IC:
     citations: 19
@@ -14,7 +14,7 @@ papers:
     title: 'Inverse two-phase nonlinear Stefan and Cauchy-Stefan problems: A phase-wise approach'
     year: '2022'
   iT0q6i8AAAAJ:UeHWp8X0CEIC:
-    citations: 20
+    citations: 21
     title: "An adaptive boundary algorithm for the reconstruction of boundary and initial data using the method of fundamental solutions for the inverse Cauchy\u2013Stefan problem"
     year: '2021'
   iT0q6i8AAAAJ:W7OEmFMy1HYC:
