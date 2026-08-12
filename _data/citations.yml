@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-12'
 papers:
   iT0q6i8AAAAJ:9yKSN-GCB0IC:
-    citations: 19
+    citations: 20
     title: Ordering of series and parallel systems comprising heterogeneous generalized modified Weibull components
     year: '2018'
   iT0q6i8AAAAJ:IjCSPb-OGe4C:
@@ -21,6 +21,10 @@ papers:
     citations: 6
     title: A minimal-assumption analysis of q-learning with time-varying policies
     year: '2026'
+  iT0q6i8AAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'From Set Convergence to Pointwise Convergence: Finite-Time Guarantees for Average-Reward Q-Learning with Adaptive Stepsizes'
+    year: '2025'
   iT0q6i8AAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: "A Decompositional Approach for Two\u2010Dimensional, Two\u2010Phase, Nonlinear Inverse Stefan Problems Using the Method of Fundamental Solutions"
@@ -46,6 +50,6 @@ papers:
     title: Stochastic comparisons of parallel systems with generalized Kumaraswamy-G components
     year: '2020'
   iT0q6i8AAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: Optimal replacement policy under cumulative damage model and strength degradation with applications
     year: '2022'
